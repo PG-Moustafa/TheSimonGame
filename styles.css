@@ -18,7 +18,7 @@ body {
 }
 
 .btn {
-  margin: 25px;
+  margin: 15px;
   display: inline-block;
   height: 200px;
   width: 200px;
@@ -50,4 +50,11 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: rgb(43, 42, 42);
+}
+
+#name {
+  font-family: cursive;
+  color: #FEF2BF;
+  position: fixed;
+  right: 75px;
 }
